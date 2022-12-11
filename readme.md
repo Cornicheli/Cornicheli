@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_agusgabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_agusgabriel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel cornide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel cornide" height="30" width="40" /></a>
-<a href="https://fb.com/gabriel agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel agustin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-cornide-99624923b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-cornide" height="30" width="40" /></a>
+<a href="https://www.facebook.com/gaabriicornideee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielagustin" height="30" width="40" /></a>
 <a href="https://instagram.com/agustincornide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agustincornide" height="30" width="40" /></a>
-<a href="https://discord.gg/Gabriel Cornide.#3150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel Cornide.#3150" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel Cornide.#3150" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
