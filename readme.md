@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web and Mobile development technologies**
 
-- 👨‍💻 All of my projects are available at [💻 Check Out My Repos ⬇️](💻 Check Out My Repos ⬇️)
+- 👨‍💻 All of my projects are available at [💻 Check Out My Repos ⬇️]
 
 - 📫 How to reach me **gabrielcornide.pg@gmail.com**
 
