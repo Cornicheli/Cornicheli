@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web and Mobile development technologies**
 
-- 👨‍💻 All of my projects are available at [💻 Check Out My Repos ⬇️](💻 Check Out My Repos ⬇️)
+- 👨‍💻 All of my projects are available at [💻 Check Out My Repos ⬇️]
 
 - 📝 I regularly write articles on [https://myporfolio-446cf.web.app/](https://myporfolio-446cf.web.app/)
 
