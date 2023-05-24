@@ -7,7 +7,9 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en ⬇️💻 Check Out My Repos ⬇️
 
-- https://porfolio-gabriel-cornide.netlify.app/
+- <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> Link a Mi Porfolio </a>
+
+
 
 - 📫 Cómo localizarme **gabrielcornide.pg@gmail.com**
 
