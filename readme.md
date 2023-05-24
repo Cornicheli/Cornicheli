@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en ⬇️💻 Check Out My Repos ⬇️
 
-- <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> Link a Mi Porfolio </a>
+- <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> Mi Porfolio </a>
 
 
 
