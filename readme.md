@@ -5,9 +5,7 @@
 
 - 🌱 Actualmente estoy trabajando **Tecnologías de desarrollo web y móvil**.
 
-- 👨‍💻 Todos mis proyectos están disponibles en ⬇️💻 Check Out My Repos ⬇️
-
-- <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> Mi Porfolio </a>
+- 👨‍💻 Todos mis proyectos están disponibles en <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> ⬇️💻 Check Out My Repos ⬇️ </a>
 
 
 
