@@ -18,7 +18,7 @@
 <a href="https://discord.gg/Gabriel Cornide.#3150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel Cornide.#3150" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Lenguajes y herramientas de trabajo</h3>
 
 <div align="left">
 <h3 align="left">Front-End :</h3>
