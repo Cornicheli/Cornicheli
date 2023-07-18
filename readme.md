@@ -1,13 +1,11 @@
 <h1 align="center">Hola 👋, soy Gabriel Agustin Cornide</h1>
-<h3 align="center"> Actualmente estoy trabajando tecnologías de desarrollo web y móvil 👨🏻‍💻</h3>
+<h3 align="center"> Actualmente estoy trabajando tecnologías de desarrollo web y móvil 👨🏻‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cornicheli&label=Profile%20views&color=0e75b6&style=flat" alt="cornicheli" /> </p>
 
-- 🌱 Actualmente estoy trabajando **Tecnologías de desarrollo web y móvil**.
+- 🌱 Actualmente estoy trabajando **Tecnologías de desarrollo Frontend y móvil**.
 
 - 👨‍💻 Todos mis proyectos están disponibles en <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> ⬇️💻 Check Out My Repos ⬇️ </a>
-
-
 
 - 📫 Cómo localizarme **gabrielcornide.pg@gmail.com**
 
