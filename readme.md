@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cornicheli&label=Profile%20views&color=0e75b6&style=flat" alt="cornicheli" /> </p>
 
-- 🌱 Actualmente estoy trabajando **Tecnologías de desarrollo Frontend y móvil**.
+- 🌱 Actualmente estoy trabajando **Desarrollador web Frontend y móvil**.
 
 - 👨‍💻 Todos mis proyectos están disponibles en <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> ⬇️💻 Check Out My Repos ⬇️ </a>
 
