@@ -46,6 +46,7 @@
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/798/531/png-transparent-react-logo-npm-javascript-package-manager-nodejs-github-installation-yarn.png" alt="yarn" width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/250px-Npm-logo.svg.png" alt="styled" width="40" height="40"/> </a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://styled-components.com/logo.png" alt="styled" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/335/521/png-transparent-jira-technology-roadmap-computer-software-workflow-bitbucket-others-blue-angle-rectangle.png alt="jira" width="40" height="40"/> </a>
 
  </p>
 
