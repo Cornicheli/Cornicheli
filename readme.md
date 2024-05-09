@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy trabajando como **Desarrollador web Frontend y móvil**.
 
-- 👨‍💻 Todos mis proyectos están disponibles en <a href="https://porfolio-gabriel-cornide.netlify.app/" target="blank"> ⬇️💻 Mi Porfolio ⬇️ </a>
+- 👨‍💻 Todos mis proyectos están disponibles en <a href="https://myporfolio-cornide.netlify.app/" target="blank"> ⬇️💻 Mi Porfolio ⬇️ </a>
 
 - 📫 Cómo contactarme ante cualquier oferta o charla **gabrielcornide.pg@gmail.com**
 
